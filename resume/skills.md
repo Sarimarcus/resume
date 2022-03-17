@@ -16,8 +16,8 @@ jQuery, Blade, Bootstrap, Laravel, Zend Framework, WordPress, Google Maps API
 
 ### **DevOps**
 
-**Cloudflare,  Gitlab CI, Pingdom, Debugbear, Google Cloud, Linux**
+Cloudflare,  Gitlab CI, Pingdom, Debugbear, Google Cloud, Linux
 
 ### **DeFi**
 
-**Ethereum, Polygon, Solana, BNB**\
+Ethereum, Polygon, Solana, BNB\
