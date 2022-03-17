@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxibG9ja2NoYWlufGVufDB8fHx8MTY0NzU1OTgwMQ&ixlib=rb-1.2.1&q=85
-coverY: 0
----
-
 # Summary
 
 ![Hello!](.gitbook/assets/hello.jpg)
