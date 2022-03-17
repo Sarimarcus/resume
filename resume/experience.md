@@ -2,7 +2,7 @@
 
 ### Webedia Group | Technical Project Director
 
-feb. 2019 - today · Madrid, Spain + Remote
+#### feb. 2019 - today · Madrid, Spain + Remote
 
 * Lead remote tech team (PMs and developpers) across the world : France, Serbia, Brazil, Germany
 * Analyze and develop procedures for management and technical duties
