@@ -4,7 +4,7 @@
 
 ## Resume
 
-* [Summary](resume/summary.md)
-* [Experience](resume/experience.md)
-* [Skills](resume/skills.md)
-* [Education](resume/education.md)
+* [Summary](resume/summary/README.md)
+  * [Experience](resume/summary/experience.md)
+  * [Skills](resume/summary/skills.md)
+  * [Education](resume/summary/education.md)
