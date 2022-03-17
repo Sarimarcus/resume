@@ -4,7 +4,7 @@
 
 HTML, CSS, JavaScript, PHP, MySQL, Docker, WAI-ARIA, Responsive Design, REST, MVC
 
-Leaning Solidity
+Learning Solidity
 
 ### Tools
 
