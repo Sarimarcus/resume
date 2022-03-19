@@ -106,6 +106,7 @@ Ethereum, Polygon, Solana, BNB\
 ### University of Toulon | Bachelor of Multimedia
 
 **1998 - 2000 · Saint Raphaël, France**
+
 # Hobbies
 
 * Spend time with my kids
