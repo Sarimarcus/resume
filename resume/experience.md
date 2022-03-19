@@ -14,10 +14,12 @@
 
 ### Webedia Group | Technical Project Manager
 
-**jan. 2014 - feb. 2019 · Paris, France + Paris, France**
+**jan. 2014 - feb. 2019 · Paris, France**
 
 * Lead remote developpers across the world : France, Serbia, Brazil
 * Maintain project time frames, budget estimates and status reports
+* Develop high-traffic websites
+* Evolution of our inhouse PHP framework
 * Code review
 * Web performance monitoring
 
@@ -26,7 +28,8 @@
 **apr. 2012 - jan. 2014 · Paris, France**
 
 * Develop and maintain internal tools in the research and development team
-* Develop and maintain high-audience websites
+* Develop and maintain high-traffic websites
+* Evolution of our inhouse PHP framework
 
 ### Masao | CTO
 

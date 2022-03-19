@@ -4,7 +4,7 @@
 
 HTML, CSS, JavaScript, PHP, MySQL, Docker, WAI-ARIA, Responsive Design, REST, MVC
 
-Learning Solidity
+Learning Solidity at the moment
 
 ### Tools
 
@@ -16,7 +16,7 @@ jQuery, Blade, Bootstrap, Laravel, Zend Framework, WordPress, Google Maps API
 
 ### **DevOps**
 
-Cloudflare,  Gitlab CI, Pingdom, Debugbear, Google Cloud, Linux
+Cloudflare,  Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
 ### **DeFi**
 
