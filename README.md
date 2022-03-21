@@ -115,13 +115,13 @@ Ethereum, Polygon, Solana, BNB
 
 **1998 - 2000 · Saint Raphaël, France**
 
-## Language
+## Languages
 
-**French** : native language
+**French**: native language
 
-**Spanish** : bilingual (C2), living in Spain for 14 years
+**Spanish**: bilingual (C2), living in Spain for 14 years
 
-**English** : fluent (C1+)
+**English**: fluent (C1+)
 
 ## Hobbies
 
