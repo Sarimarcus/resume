@@ -105,9 +105,9 @@ jQuery, Blade, Bootstrap, Laravel, Zend Framework, WordPress, Google Maps API
 
 Cloudflare, Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
-#### **DeFi**
+#### **Blockchains**
 
-Ethereum, Polygon, Solana, BNB
+Understanding of Crypto & the Blockchain Platforms
 
 ## Education
 
