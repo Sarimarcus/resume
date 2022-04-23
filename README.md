@@ -127,4 +127,4 @@ Understanding of Crypto & the Blockchain Platforms
 
 * Spend time with my kids
 * Aavegotchi : member of the guild "The Gotchi French Army"
-* Open risky leveraged position
+* Try out new protocols
