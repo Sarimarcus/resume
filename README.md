@@ -109,6 +109,8 @@ Cloudflare, Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
 Understanding of Crypto & the Blockchain Platforms
 
+Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave, Arrakis...)
+
 ## Education
 
 #### University of Toulon | Bachelor of Multimedia
