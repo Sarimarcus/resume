@@ -2,7 +2,7 @@
 
 ## Summary
 
-![Hello World!](.gitbook/assets/hello.jpg)
+![GM!](.gitbook/assets/hello.jpg)
 
 As an experienced Web2 builder, I’m equally comfortable managing tech teams and collaborating with others on design and strategies, discussing solutions with stakeholders, and deploying products. I’m seeking out a role where my experience and existing skills can make a direct contribution as quickly, but also provide me with new challenges to continue to grow as a developer and a leader. I want to take the opportunity to contribute to building Web3.
 
@@ -13,6 +13,7 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 **feb. 2019 - today · Madrid, Spain + Remote**
 
 * Lead remote tech team (PMs and developpers) across the world : France, Serbia, Brazil, Germany
+* Develop the new Web3 agency projects : NFT minting platform and more to come
 * Analyze and develop procedures for management and technical duties
 * Manage budget and staff allocation for each project
 * Maintain project time frames, budget estimates and status reports
@@ -109,7 +110,7 @@ Cloudflare, Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
 Understanding of Crypto & the Blockchain Platforms
 
-Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave, Arrakis...)
+Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave...)
 
 ## Education
 
