@@ -8,7 +8,7 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 
 ## Experience
 
-#### Webedia Group | Technical Project Director
+#### Webedia Group | CTO
 
 **feb. 2019 - today · Madrid, Spain + Remote**
 
