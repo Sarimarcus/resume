@@ -130,4 +130,5 @@ Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave...)
 
 * Spend time with my kids
 * Aavegotchi : member of the guild "The Gotchi French Army"
+* Member of Fleet Collective, a Web3 collective mostly of french freelancers
 * Try out new protocols
