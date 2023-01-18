@@ -110,7 +110,7 @@ Cloudflare, Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
 Understanding of Crypto & the Blockchain Platforms
 
-Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave...)
+Daily user of DeFi protocols (Balancer, Curve, QIDAO, Aave, Velodrome...)
 
 ## Education
 
