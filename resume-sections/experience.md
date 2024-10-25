@@ -23,7 +23,7 @@
 * Code review
 * Web performance monitoring
 
-### Webedia Group | **Web Developer**
+### Webedia Group | Web Developer
 
 **apr. 2012 - jan. 2014 · Paris, France**
 
@@ -49,16 +49,16 @@
 * Development of websites and contests for Gaming industry : Sega, Ubisoft, Microsoft, Electronic Arts, Capcom, Bethesda
 * Development of Facebook applications : SIMS, EA
 
-### **Webseven | Web Developer**
+### Webseven | Web Developer
 
 **sep. 2008 - may 2009 · Paris, France**
 
 * Website development for multiple customers
 * Functional and technical specs writing
 
-### XUL Comunicación Social **| Web Developer**
+### XUL Comunicación Social | Web Developer
 
-**oct. 2004 - jun. 2008 · Córdoba, Spain**&#x20;
+**oct. 2004 - jun. 2008 · Córdoba, Spain**
 
 * Website development for multiple customers
 * Development of a cross-country platform for ONU
