@@ -8,9 +8,9 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 
 ## Experience
 
-#### Webedia Group | CTO
+### Webedia Group | CTO
 
-**feb. 2019 - today · Madrid, Spain + Remote**
+#### **feb. 2019 - today · Madrid, Spain + Remote**
 
 * Lead remote tech team (PMs and developpers) across the world : France, Serbia, Brazil, Germany
 * Develop the new Web3 agency projects : NFT minting platform and more to come
@@ -21,9 +21,9 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 * Web performance monitoring
 * Ads and audience growth through optimization and SEO
 
-#### Webedia Group | Technical Project Manager
+### Webedia Group | Technical Project Manager
 
-**jan. 2014 - feb. 2019 · Paris, France**
+#### **jan. 2014 - feb. 2019 · Paris, France**
 
 * Lead remote developpers across the world : France, Serbia, Brazil
 * Maintain project time frames, budget estimates and status reports
@@ -32,17 +32,17 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 * Code review
 * Web performance monitoring
 
-#### Webedia Group | **Web Developer**
+### Webedia Group | Web Developer
 
-**apr. 2012 - jan. 2014 · Paris, France**
+#### **apr. 2012 - jan. 2014 · Paris, France**
 
 * Develop and maintain internal tools in the research and development team
 * Develop and maintain high-traffic websites
 * Evolution of our inhouse PHP framework
 
-#### Masao | CTO
+### Masao | CTO
 
-**may 2010 - apr. 2012 · Paris, France**
+#### **may 2010 - apr. 2012 · Paris, France**
 
 * Lead developpers team remotely for the creation of websites for the company and its customers
 * Setup methodology and process of the development team
@@ -51,62 +51,62 @@ As an experienced Web2 builder, I’m equally comfortable managing tech teams an
 * Interface with freelances
 * Functional and technical specs writing
 
-#### Carburant | Web Developer
+### Carburant | Web Developer
 
-**jul. 2009 - may 2010 · Paris, France**
+#### **jul. 2009 - may 2010 · Paris, France**
 
 * Development of websites and contests for Gaming industry : Sega, Ubisoft, Microsoft, Electronic Arts, Capcom, Bethesda
 * Development of Facebook applications : SIMS, EA
 
-#### **Webseven | Web Developer**
+### Webseven | Web Developer
 
-**sep. 2008 - may 2009 · Paris, France**
+#### **sep. 2008 - may 2009 · Paris, France**
 
 * Website development for multiple customers
 * Functional and technical specs writing
 
-#### XUL Comunicación Social **| Web Developer**
+### XUL Comunicación Social | Web Developer
 
-**oct. 2004 - jun. 2008 · Córdoba, Spain**
+#### **oct. 2004 - jun. 2008 · Córdoba, Spain**
 
 * Website development for multiple customers
 * Development of a cross-country platform for ONU
 * Development of accessibility focus website
 
-#### Domainoo | Web Developer
+### Domainoo | Web Developer
 
-**mar. 2001 - mar. 2002 · Paris, France**
+#### **mar. 2001 - mar. 2002 · Paris, France**
 
 * Development of a domain names marketplace for public and companies
 
-#### H3D | Web Developer
+### H3D | Web Developer
 
-**sept. 2000 - mars 2001 · Paris, France**
+#### **sept. 2000 - mars 2001 · Paris, France**
 
 * Website development for multiple customers
 * Hardware maintenance
 
 ## Skills
 
-#### **Development**
+### **Development**
 
 HTML, CSS, JavaScript, PHP, MySQL, Docker, WAI-ARIA, Responsive Design, REST, MVC
 
 Learning Solidity at the moment
 
-#### Tools
+### Tools
 
 Git, NPM, Composer, Yarn, WebPack, Gulp, Grunt, Vagrant
 
-#### **Frameworks and Libraries**
+### **Frameworks and Libraries**
 
 jQuery, Blade, Bootstrap, Laravel, Zend Framework, WordPress, Google Maps API
 
-#### **DevOps**
+### **DevOps**
 
 Cloudflare, Gitlab CI, Github, JIRA, Pingdom, Debugbear, Google Cloud, Linux
 
-#### **Blockchains**
+### **Blockchain**
 
 Understanding of Crypto & the Blockchain Platforms
 
